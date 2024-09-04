@@ -4,5 +4,5 @@ public class PdfReportGenerator implements ReportGenerator{
     @Override
     public String reportGenerate() {
         return "PDF report Generated";
-    }ß
+    }
 }
