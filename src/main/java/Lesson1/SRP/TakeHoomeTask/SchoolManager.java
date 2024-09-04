@@ -1,4 +1,4 @@
-package TakeHoomeTask;
+package Lesson1.SRP.TakeHoomeTask;
 
 class Student {
     // .. some properties

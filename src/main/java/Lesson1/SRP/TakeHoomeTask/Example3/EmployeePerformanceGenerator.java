@@ -1,6 +1,6 @@
-package Example3;
+package Lesson1.SRP.TakeHoomeTask.Example3;
 
-import Example2.BetterCode.Employee;
+import Lesson1.SRP.TakeHoomeTask.Example2.BetterCode.Employee;
 
 public class EmployeePerformanceGenerator {
     public String generateReport(String reportType, Employee employee) {

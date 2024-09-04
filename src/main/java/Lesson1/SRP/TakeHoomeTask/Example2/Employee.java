@@ -1,4 +1,4 @@
-package Example2;
+package Lesson1.SRP.TakeHoomeTask.Example2;
 
 public class Employee {
 

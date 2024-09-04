@@ -1,4 +1,4 @@
-package Example2.BetterCode;
+package Lesson1.SRP.TakeHoomeTask.Example2.BetterCode;
 
 public class EmployeeSalaryCalculator {
     public double calculateSalary(Employee employee) {
