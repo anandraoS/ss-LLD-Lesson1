@@ -1,4 +1,4 @@
-package Lesson1.BetterCode;
+package Example2.BetterCode;
 
 public class FetchEmployeeBioData {
     public void fetchBioData(Employee employee) {

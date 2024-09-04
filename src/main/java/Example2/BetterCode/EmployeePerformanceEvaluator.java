@@ -1,4 +1,4 @@
-package Lesson1.BetterCode;
+package Example2.BetterCode;
 
 public class EmployeePerformanceEvaluator {
     public void evaluatePerformance(Employee employee) {
