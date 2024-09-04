@@ -20,4 +20,14 @@ public class RupayCard extends CreditCard{
     public void mandatePayments() {
         System.out.println("Mandate Pay impl of RUPAY ");
     }
+
+    @Override
+    public void intlPayment() {
+ // it is not supported in india but still we need to implement
+    }
+
+    @Override
+    public void upiPayment() {
+
+    }
 }

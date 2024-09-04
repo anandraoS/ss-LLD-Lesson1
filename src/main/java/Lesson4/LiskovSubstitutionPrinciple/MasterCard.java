@@ -20,4 +20,14 @@ public class MasterCard extends CreditCard{
     public void mandatePayments() {
         System.out.println("Mandate Pay impl of MASTER ");
     }
+
+    @Override
+    public void intlPayment() {
+
+    }
+
+    @Override
+    public void upiPayment() {
+        // it won't support for upi but still we have to implement
+    }
 }
