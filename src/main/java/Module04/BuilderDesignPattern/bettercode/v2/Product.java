@@ -1,7 +1,7 @@
-package Module04.BuilderDesignPattern;
+package Module04.BuilderDesignPattern.bettercode.v2;
+
 
 import java.util.List;
-
 
 public class Product {
     private String name;
@@ -14,8 +14,8 @@ public class Product {
     private String updatedAt;
     private List<String> images;
 
-    public Product() {
-    }
+   /* public Product() {
+    }*/
 
     public Product(String name, String desc, int price, String brand, String category, int discount, String createdAt, String updatedAt, List<String> images) {
         this.name = name;
